@@ -1,0 +1,15 @@
+.menu-list-container {
+  margin: 0 auto;
+  width: 98%;
+  max-width: 1400px;
+  overflow-x: auto;
+}
+
+.active-menu-list {
+  width: 100%;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

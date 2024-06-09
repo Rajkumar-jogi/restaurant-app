@@ -1,0 +1,28 @@
+.menu-item-button {
+  background-color: #ffffff;
+  color: #8c8685;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+  width: 200px;
+  margin: 5px;
+  border: none;
+}
+
+.menu-list {
+  display: flex;
+  justify-content: space-between;
+  width: 98%;
+  max-width: 1400px;
+  list-style: none;
+  padding-left: 0;
+  overflow-x: auto;
+  margin: 0 auto;
+}
+
+.activeTabButton {
+  color: #f54269;
+  border-bottom: 1px solid #f54269;
+}
